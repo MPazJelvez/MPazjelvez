@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, my name is María Paz, but everybody calls me Pachy
+#### I'm a Junior Front End Developer
+![I'm a Junior Front End Developer](https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif)
 
-<!--
-**MPazJelvez/MPazjelvez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🙋‍♀️ I am also a Translator and Interpreter (Spanish is my mother tongue and I speak English, French and a little bit of Portuguese)
+- 📚 I'm always eager to learn new stuff. 
+- 🐱 I love cats
+- 🧶 I love crochet and I make amigurumi dolls in my free time.
+- 👾 I love videogames such as Animal Crossing, Pokémon and Kirby
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: JS / HTML / CSS / Firebase
+
+
+
+
