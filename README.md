@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is María Paz, but everybody calls me Pachy
 #### I'm a Junior Front End Developer
-![I'm a Junior Front End Developer](https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif)
+<img src=https://media.giphy.com/media/E6jscXfv3AkWQ/giphy.gif align = "right">
 
 - 🙋‍♀️ I am also a Translator and Interpreter (Spanish is my mother tongue and I speak English, French and a little bit of Portuguese)
 - 📚 I'm always eager to learn new stuff. 
