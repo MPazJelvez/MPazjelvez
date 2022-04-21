@@ -7,6 +7,7 @@
 - 🐱 I love cats
 - 🧶 I love crochet and I make amigurumi dolls in my free time.
 - 👾 I love videogames such as Animal Crossing, Pokémon and Kirby
+- ⚛️ I'm currently learning React!
 
 
 ### Skills 
@@ -15,7 +16,7 @@
 
 
 ### Contact me:
-  - ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) [My LinkedIn](www.linkedin.com/in/mpazjelvez)
-  - ![Email](https://img.icons8.com/color/48/000000/email.png) mpazjelvez@gmail.com
+  - ![LinkedIn](https://img.icons8.com/officexs/16/000000/linkedin.png) [My LinkedIn](www.linkedin.com/in/mpazjelvez)
+  - ![Email](https://img.icons8.com/officexs/16/000000/email.png) mpazjelvez@gmail.com
 
 
