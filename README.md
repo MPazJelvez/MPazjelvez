@@ -9,8 +9,11 @@
 - 👾 I love videogames such as Animal Crossing, Pokémon and Kirby
 
 
-Skills: JS / HTML / CSS / Firebase
+<div> 
+<p><strong>Skills</strong></p>
+</div>  
 
+[HTML](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-html-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/)
 
 
 
