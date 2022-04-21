@@ -13,7 +13,7 @@
 <p><strong>Skills</strong></p>
 </div>  
 
-[HTML](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-html-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/)
+![HTML](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-html-mobile-app-development-flaticons-lineal-color-flat-icons-4.png"/)
 
 
 
