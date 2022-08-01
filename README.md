@@ -7,7 +7,7 @@
 - 🐱 I love cats
 - 🧶 I love crochet and I make amigurumi dolls in my free time.
 - 👾 I love videogames such as Animal Crossing, Pokémon and Kirby
-- ⚛️ I'm currently learning React!
+- ⚛️ I'm currently learning Asp.Net MVC, C# and JQuery!
 
 
 ### Skills 
