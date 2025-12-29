@@ -7,8 +7,7 @@
 - 🐱 I love cats
 - 🧶 I love crochet and I make amigurumi dolls in my free time.
 - 👾 I love videogames such as Animal Crossing, Pokémon and Kirby
-- 💼 I work as a Front-End Developer at a Factoring Company
-- ⭕ I'm currently working on OutSystems
+- 💼 I worked as a Front-End Developer at a Factoring Company
 
 
 ### Skills 
