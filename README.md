@@ -17,6 +17,6 @@
 
 ### Contact me:
   - ![LinkedIn](https://img.icons8.com/officexs/16/000000/linkedin.png) [My LinkedIn](www.linkedin.com/in/mpazjelvez)
-  - ![Email](https://img.icons8.com/officexs/16/000000/email.png) mpazjelvez@gmail.com
+  
 
 
